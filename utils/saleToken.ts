@@ -1,0 +1,10 @@
+export const ETH = "Eth" as const;
+export const COIN_1 = "Tether USD" as const;
+export const COIN_2 = "BNB" as const;
+export const COIN_3 = "USD Coin" as const;
+export const COIN_4 = "stETH" as const;
+export const COIN_5 = "TRON" as const;
+export const COIN_6 = "Matic Token" as const;
+export const COIN_7 = "SHIBA INU" as const;
+export const COIN_8 = "Uniswap" as const;
+export const DEFAULT_VALUE = "Select a token" as const;
