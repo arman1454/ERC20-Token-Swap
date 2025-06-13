@@ -43,7 +43,7 @@ const Header: React.FC = (): ReactElement => {
             <li className="flex">
               <a
                 rel="noopener noreferrer"
-                href="/tokens"
+                href="/Tokens"
                 className="flex items-center px-4 -mb-1 dark:border-transparent"
               >
                 Tokens

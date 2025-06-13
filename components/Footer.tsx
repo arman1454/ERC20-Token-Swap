@@ -74,10 +74,10 @@ const Footer = ()=>{
                 <Facebook/>
               </a>
               <a className="flex items-center p-1" title="Twitter" rel="noopener noreferrer" href="#">
-                <Facebook/>
+                <Twitter/>
               </a>
               <a className="flex items-center p-1" title="Instagram" rel="noopener noreferrer" href="#">
-                <Facebook/>
+                <Insta/>
               </a>
               
             </div>

@@ -3,7 +3,6 @@ import Footer from "./Footer";
 import Card from "./Card";
 import HeroSection from "./HeroSection";
 import Selector from "./Selector";
-import SingleCard from "./SingleCard";
 import SwapComponent from "./SwapComponent";
 import Table from "./Table";
 import TokenBalance from "./TokenBalance";
@@ -22,7 +21,6 @@ export{
     Card,
     HeroSection,
     Selector,
-    SingleCard,
     SwapComponent,
     Table,
     TokenBalance,

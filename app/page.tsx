@@ -8,10 +8,10 @@ import Footer from '@/components/Footer'
 export default function Home() {
   return (
     <div className="bg-[#1A1A1A]">
-      <Header />
+      {/* <Header /> */}
       <HeroSection/>
       <Card/>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }

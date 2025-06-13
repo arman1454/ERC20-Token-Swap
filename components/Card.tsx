@@ -2,7 +2,7 @@
 import React from "react";
 import { useAccount } from "wagmi";
 
-import { SingleCard } from "./index";
+import SingleCard from "./SingleCard";
 
 interface CardProps {}
 
